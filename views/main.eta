@@ -1,0 +1,13 @@
+<% layout("./layouts/layout.eta") %>
+
+<h1>Question app</h1>
+
+<p>This app is used for creating and answering multiple choice questions.</p>
+
+<p>Registered users can create questions and add answer options to them. Questions created by other users can be asnwered by taking a quiz.</p>
+
+<p>Pesonal statistics and the most accomplished users will be shown on the statistics page.</p>
+
+
+<p>If you haven't already done so, you can register <a href="/auth/register">HERE</a> or just <a href="/auth/login">log in</a>!</p>
+
