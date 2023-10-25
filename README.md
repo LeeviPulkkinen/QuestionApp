@@ -6,7 +6,7 @@ created by other users can be asnwered by taking a quiz.
 Pesonal statistics and the most accomplished users will be shown on the
 statistics page.
 
-The app can be tested online at: https://wsd-project--2.herokuapp.com/
+~~The app can be tested online at: https://wsd-project--2.herokuapp.com/~~ unfortunately the app is no longer online since heroku shut down their free plan
 
 To use the app locally create a database with the following commands:
 
